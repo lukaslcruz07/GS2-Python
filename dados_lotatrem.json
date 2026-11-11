@@ -1,0 +1,28 @@
+{
+    "relatos": [
+        {
+            "linha": "Linha 1-Azul",
+            "estacao": "Praça da Árvore",
+            "hora": 15,
+            "nivel": 55
+        }
+    ],
+    "historico": [
+        {
+            "data": "11/11/2026 15:45",
+            "linha": "Linha 1-Azul",
+            "origem": "Jd. São Paulo-Ayrton Senna",
+            "destino": "Conceição",
+            "pessoas": 3,
+            "horario_recomendado": "15:52"
+        },
+        {
+            "data": "11/11/2026 15:52",
+            "linha": "Linha 1-Azul",
+            "origem": "Praça da Árvore",
+            "destino": "Tucuruvi",
+            "pessoas": 3,
+            "horario_recomendado": "15:48"
+        }
+    ]
+}
